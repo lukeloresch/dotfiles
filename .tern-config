@@ -1,0 +1,15 @@
+{
+    "libs": [
+      "browser",
+      "underscore",
+      "jquery",
+      "ecma5",
+      "ecma6",
+      "react"
+    ],
+      "plugins": {
+        "node": {},
+        "es_modules": {},
+        "angular": {}
+      }
+}
